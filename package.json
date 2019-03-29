@@ -1,0 +1,19 @@
+{
+  "name": "tp_arq_web",
+  "version": "1.0.0",
+  "description": "trabajo practico para arquitectura web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mats94/TP_Arq_web.git"
+  },
+  "author": "Matias Barros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mats94/TP_Arq_web/issues"
+  },
+  "homepage": "https://github.com/mats94/TP_Arq_web#readme"
+}
