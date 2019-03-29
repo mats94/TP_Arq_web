@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mats94/TP_Arq_web/issues"
   },
-  "homepage": "https://github.com/mats94/TP_Arq_web#readme"
+  "homepage": "https://github.com/mats94/TP_Arq_web#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
